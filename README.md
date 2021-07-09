@@ -1,2 +1,6 @@
 # Liquidity Mining
-Todo: write deploy contracts script
+
+
+`truffle develop`
+
+truffle(develop)> `migrate --reset`
